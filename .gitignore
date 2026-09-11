@@ -1,0 +1,11 @@
+# Local executables
+/gomodscan
+/gomodscan.exe
+
+# Generated reports may contain local paths and private dependency information.
+/*.html
+!/template.html
+
+# Local editor and OS state
+.idea/
+.DS_Store
